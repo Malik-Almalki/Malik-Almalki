@@ -19,36 +19,38 @@
 - **Power BI**
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=gruvbox" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=gruvbox" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Almalki&layout=compact&theme=gruvbox" /> </p>
 
-<h1 align="center">مرحبًا، أنا [اسمك] | Hello, I'm [Your Name] 👋</h1>
-<p align="center">📍 مطور برمجيات / محلل بيانات | Software Developer / Data Analyst</p>
 
----
-
-## 🧑‍💻 من أنا؟ | About Me
-
-- 💡 أهوى تطوير الحلول التقنية | I love building tech solutions  
-- 📊 أعمل حاليًا على: [اسم مشروعك أو مهارة تتعلمها] | Currently working on: [Project or skill]  
-- 🎯 هدفي: [هدفك المهني أو الشخصي] | My goal: [Your personal or career goal]  
-- ⚡ ممتع عني: [شيء مميز عنك] | Fun fact: [Fun thing about you]  
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<p align="center">💻 Software Developer | 📊 Data Analyst | 🚀 Tech Enthusiast</p>
 
 ---
 
-## 📬 تواصل معي | Contact Me
+## 👨‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](رابط_لينكدإن)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:بريدك@الإلكتروني)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](رابط_موقعك_الشخصي)  
+- 🔭 I’m currently working on: [Your Project or Learning Topic]
+- 🌱 I’m currently learning: [Skill or Technology]
+- 💬 Ask me about: Python, Data Analysis, Web Development
+- 📫 How to reach me: [Your Email or LinkedIn]
+- ⚡ Fun fact: [Something interesting about you]
 
 ---
 
-## 🛠️ المهارات | Skills
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](your-portfolio-url)  
+
+---
+
+## 🛠️ Skills
 
 ```bash
-💻 لغات: Python • JavaScript • SQL  
-🌐 تطوير ويب: HTML • CSS • React  
-📊 تحليل بيانات: Pandas • Excel • Power BI  
-⚙️ أدوات: Git • GitHub • VS Code
+💻 Languages: Python • JavaScript • SQL  
+🌐 Web: HTML • CSS • React • Node.js  
+📊 Data: Pandas • NumPy • Power BI • Excel  
+⚙️ Tools: Git • GitHub • VS Code • Docker
+
 
 
