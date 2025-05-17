@@ -14,10 +14,9 @@
 
  🛠️ **Skills:**
 
-**Languages** - **SQL**
+**Languages** - **SQL** - **Python**
+**Languages** 
 
-- **SQL**
-- **Python**
 - **Power BI**
 
 ---
