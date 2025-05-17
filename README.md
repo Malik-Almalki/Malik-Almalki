@@ -49,3 +49,8 @@
 📊 تحليل بيانات: Pandas • NumPy • Excel • Power BI  
 🗃️ قواعد البيانات: MySQL • MongoDB  
 ⚙️ أدوات: Git • GitHub • VS Code • Docker
+
+
+<p align="center">
+  <img src="رابط_صورتك" width="200" height="200" style="border-radius: 50%;" />
+</p>
