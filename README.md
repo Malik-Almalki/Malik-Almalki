@@ -14,8 +14,8 @@
 
  🛠️ **Skills:**
 
-**Languages** - **SQL** - **Python**
-**Languages** 
+**💻Languages**  **•SQL •Python**
+**🌐 Web: HTML** 
 
 - **Power BI**
 
