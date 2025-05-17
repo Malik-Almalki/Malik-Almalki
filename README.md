@@ -28,6 +28,8 @@
 
 **🚀 My GitHub Stats**
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=apprentice" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=apprentice" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Malik-Almalki&theme=apprentice" />
+
 </p>
