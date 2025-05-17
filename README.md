@@ -19,8 +19,8 @@
 - **Power BI**
 
 ---
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<p align="center">💻 Software Developer | 📊 Data Analyst | 🚀 Tech Enthusiast</p>
+<h1 align="center"> I'm [Malik Almalki] </h1>
+<p align="center">💻 Information Systems Engineer | 📊 Data Analyst | 🚀 Tech Enthusiast</p>
 ---
 
 ## 📫 Contact Me
