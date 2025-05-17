@@ -12,7 +12,7 @@
 
 
 #
-**🛠️ Skills & Tools:**
+**⚙️Technical Skills:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -26,9 +26,9 @@
 
 ---
 
-# 🗂️Portfolio
+# 🗂️Portfolios
 
-[Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
+- [Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
 
 ---
 # **🚀 My GitHub Stats**
