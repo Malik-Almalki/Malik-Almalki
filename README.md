@@ -14,11 +14,11 @@
 
 **🛠️ Skills:**
 
-💻**💻 Languages: • SQL • Python**
+**💻 Languages: • SQL • Python**
 
 **🌐 Web: • HTML • CSS** 
 
-**📊 Data: • Excel • Pandas • NumPy • Power BI ** 
+**📊 Data: • Excel • Pandas • NumPy • Power BI** 
 
 
 ---
