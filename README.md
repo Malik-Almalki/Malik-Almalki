@@ -10,8 +10,8 @@
 ![Big Data](https://img.shields.io/badge/Big%20Data-9C27B0?style=flat&logo=apachespark&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF5722?style=flat&logo=tensorflow&logoColor=white)
 
----
 
+#
 **🛠️ Skills & Tools:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -25,12 +25,13 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
+
 # 🗂️Portfolio
 
 
 
 ---
-**🚀 My GitHub Stats**
+# **🚀 My GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=apprentice" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=apprentice" />
