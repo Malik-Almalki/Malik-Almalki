@@ -13,7 +13,7 @@
 
 ---
 
-**🛠️Skills - Tools**
+**🛠️ Skills - Tools**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
