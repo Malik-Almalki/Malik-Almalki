@@ -19,7 +19,7 @@
 - **Power BI**
 
 ---
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=اسم_مستخدمك&show_icons=true&theme=gruvbox" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=اسم_مستخدمك&theme=gruvbox" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=اسم_مستخدمك&layout=compact&theme=gruvbox" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=gruvbox" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=gruvbox" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Almalki&layout=compact&theme=gruvbox" /> </p>
 
 <h1 align="center">مرحبًا، أنا [اسمك] | Hello, I'm [Your Name] 👋</h1>
 <p align="center">📍 مطور برمجيات / محلل بيانات | Software Developer / Data Analyst</p>
