@@ -1,5 +1,5 @@
 # Malik Almalki  
-#### 💻 Information Systems Engineer | 📊 Data Analyst
+##### 💻 Information Systems Engineer | 📊 Data Analyst
 
 ---
 
