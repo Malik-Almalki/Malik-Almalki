@@ -19,21 +19,23 @@
 - **Power BI**
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=اسم_مستخدمك&show_icons=true&theme=gruvbox" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=اسم_مستخدمك&theme=gruvbox" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=اسم_مستخدمك&layout=compact&theme=gruvbox" /> </p>
 
-<h1 align="center">مرحبًا، أنا [اسمك] 👋</h1>
-<p align="center">📍 مطوّر / محلل بيانات / مهندس برمجيات - شغوف بالتعلم والمشاركة 👨‍💻</p>
-
----
-
-## 🧑‍💻 من أنا؟
-- 💡 أحب بناء حلول تقنية تساهم في تحسين الواقع
-- 🧠 أتعلم حاليًا: [المجال الذي تتعلمه الآن]
-- 🎯 هدفي لعام 2025: [اكتب هدفك]
-- ⚡ ممتع: [شيء مميز عنك، مثل "أعزف على العود" أو "أعشق القهوة"]
+<h1 align="center">مرحبًا، أنا [اسمك] | Hello, I'm [Your Name] 👋</h1>
+<p align="center">📍 مطور برمجيات / محلل بيانات | Software Developer / Data Analyst</p>
 
 ---
 
-## 📬 تواصل معي:
+## 🧑‍💻 من أنا؟ | About Me
+
+- 💡 أهوى تطوير الحلول التقنية | I love building tech solutions  
+- 📊 أعمل حاليًا على: [اسم مشروعك أو مهارة تتعلمها] | Currently working on: [Project or skill]  
+- 🎯 هدفي: [هدفك المهني أو الشخصي] | My goal: [Your personal or career goal]  
+- ⚡ ممتع عني: [شيء مميز عنك] | Fun fact: [Fun thing about you]  
+
+---
+
+## 📬 تواصل معي | Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](رابط_لينكدإن)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:بريدك@الإلكتروني)  
@@ -41,16 +43,12 @@
 
 ---
 
-## 🛠️ المهارات
+## 🛠️ المهارات | Skills
 
 ```bash
-💻 لغات: Python • JavaScript • C++ • Java  
-🌐 تطوير ويب: HTML • CSS • React • Node.js  
-📊 تحليل بيانات: Pandas • NumPy • Excel • Power BI  
-🗃️ قواعد البيانات: MySQL • MongoDB  
-⚙️ أدوات: Git • GitHub • VS Code • Docker
+💻 لغات: Python • JavaScript • SQL  
+🌐 تطوير ويب: HTML • CSS • React  
+📊 تحليل بيانات: Pandas • Excel • Power BI  
+⚙️ أدوات: Git • GitHub • VS Code
 
 
-<p align="center">
-  <img src="رابط_صورتك" width="200" height="200" style="border-radius: 50%;" />
-</p>
