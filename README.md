@@ -1,6 +1,6 @@
 # Malik Almalki
 
-**💻 Information Systems Engineer | 📊 Data Analyst **
+**💻 Information Systems Engineer | 📊 Data Analyst**
 
 ---
 
@@ -12,20 +12,16 @@
 
 ---
 
- 🛠️ **Skills:**
+**🛠️Skills:**
 
-**💻 Languages:  •SQL •Python**
+**💻 Languages:  • SQL • Python**
 
-**🌐 Web: H** 
+**🌐 Web: • HTML • CSS** 
 
-- **Power BI**
+**📊 Data: • Pandas • NumPy • Power BI • Excel** 
+
 
 ---
-
-```
-💻 Languages: Python • SQL  
-🌐 Web: HTML • CSS   
-📊 Data: Pandas • NumPy • Power BI • Excel  
 
 
 
