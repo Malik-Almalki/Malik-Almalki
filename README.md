@@ -19,21 +19,8 @@
 - **Power BI**
 
 ---
-
-
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 <p align="center">💻 Software Developer | 📊 Data Analyst | 🚀 Tech Enthusiast</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on: [Your Project or Learning Topic]
-- 🌱 I’m currently learning: [Skill or Technology]
-- 💬 Ask me about: Python, Data Analysis, Web Development
-- 📫 How to reach me: [Your Email or LinkedIn]
-- ⚡ Fun fact: [Something interesting about you]
-
 ---
 
 ## 📫 Contact Me
@@ -46,11 +33,13 @@
 
 ## 🛠️ Skills
 
-```bash
-💻 Languages: Python • JavaScript • SQL  
-🌐 Web: HTML • CSS • React • Node.js  
+```
+💻 Languages: Python • SQL  
+🌐 Web: HTML • CSS   
 📊 Data: Pandas • NumPy • Power BI • Excel  
-⚙️ Tools: Git • GitHub • VS Code • Docker
+
+
+
 
 
 
