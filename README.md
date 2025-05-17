@@ -13,6 +13,7 @@
 ---
 
 **🛠️Skills:**
+
 **Languages: • SQL • Python**
 **Web: • HTML • CSS** 
 **Data: • Excel • Pandas • NumPy • Power BI** 
