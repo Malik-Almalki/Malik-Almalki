@@ -1,4 +1,4 @@
-# Malik Almalki  
+# 👤Malik Almalki  
 **💻 Information Systems Engineer | 📊 Data Analyst**
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-**🛠️ Skills - Tools**
+**🛠️ Skills & Tools:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -25,7 +25,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
+# 🗂️Portfolio
 
+
+
+---
 **🚀 My GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=apprentice" />
