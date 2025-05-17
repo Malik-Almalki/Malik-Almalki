@@ -28,7 +28,7 @@
 
 # 🗂️Portfolio
 
-
+[Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
 
 ---
 # **🚀 My GitHub Stats**
