@@ -4,14 +4,11 @@
 ---
 
 🎯 **Interests:**
-<p>
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=googleanalytics&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-2196F3?style=flat&logo=datascience&logoColor=white)
 ![Big Data](https://img.shields.io/badge/Big%20Data-9C27B0?style=flat&logo=apachespark&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF5722?style=flat&logo=tensorflow&logoColor=white)
-
-<p/>
 
 #
 **⚙️Technical Skills:**
