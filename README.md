@@ -10,7 +10,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF5722?style=flat&logo=tensorflow&logoColor=white)
 
 #
-**⚙️Technical Skills:**
+⚙️ **Technical Skills:**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -24,7 +24,7 @@
 
 ---
 
-# 🗂️Portfolios
+# 🗂️ Portfolios
 
 - [Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
 
