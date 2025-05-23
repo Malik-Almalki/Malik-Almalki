@@ -1,7 +1,6 @@
-# 👤Malik Almalki  
-**💻 Information Systems Engineer | 📊 Data Analyst**
-
----
+#
+![Image](https://github.com/user-attachments/assets/53233db6-59ff-492e-8bab-90427198dd50)
+#
 
 🎯 **Interests:**
 
