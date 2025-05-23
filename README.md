@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/53233db6-59ff-492e-8bab-90427198dd50)
 #
 
-🎯 **Interests:**
+### 🎯 Interests:
 
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=flat&logo=googleanalytics&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-2196F3?style=flat&logo=datascience&logoColor=white)
@@ -10,7 +10,7 @@
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF5722?style=flat&logo=tensorflow&logoColor=white)
 
 #
-⚙️ **Technical Skills:**
+### ⚙️ Technical Skills:
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -26,9 +26,10 @@
 
 # 🗂️ Portfolios
 
-- [Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
+### - [Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
 
 ---
+
 # **🚀 My GitHub Stats**
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=apprentice" />
