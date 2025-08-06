@@ -37,5 +37,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Malik-Almalki&show_icons=true&theme=apprentice" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Malik-Almalki&theme=apprentice" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Almalki&layout=compact&theme=apprentice" />
+  
+
 </p>
 
