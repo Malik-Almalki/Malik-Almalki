@@ -27,7 +27,9 @@
 
 # 🗂️ Portfolios
 
+### - [SQL-Python Portfolio](https://github.com/Malik-Almalki/SQL-Python-Portfolio)
 ### - [Power BI Portfolio](https://github.com/Malik-Almalki/PowerBI-Portfolio.git)
+
 
 ---
 
