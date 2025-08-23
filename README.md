@@ -1,5 +1,5 @@
 # About Me:
-![image](https://github.com/user-attachments/assets/ed8478fb-46d3-4f25-bdf3-cd655b4a84c0)
+<img width="1200" height="400" alt="Brown and White Modern Business Email Header (3)" src="https://github.com/user-attachments/assets/b6cd1b4b-0082-4cd6-9f30-66db102b7ea4" />
 
 #
 
