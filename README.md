@@ -1,6 +1,10 @@
 # About Me:
 
-<img width="1200" height="400" alt="Brown and White Modern Business Email Header (4)" src="https://github.com/user-attachments/assets/0e14bf91-a447-4811-8513-777ccbfe5e19" />
+<a href="https://malik.com.sa" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0e14bf91-a447-4811-8513-777ccbfe5e19" 
+       width="1200" 
+       height="400">
+</a>
 
 #
 
